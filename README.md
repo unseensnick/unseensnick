@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Aspiring Developer)`**
 
-Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn and create. Currently, I'm immersing myself in Python and Django through several hands-on projects. Although Java is a language I'm familiar with, my appetite for learning extends beyond - JavaScript, TypeScript, and React are next on my list. Always game for learning new languages and frameworks, I'm eager to evolve and hone my developer skills.
+Hello! As an aspiring Full Stack Developer, my curiosity drives me to learn and innovate. Currently, I'm deeply engaged with Python and Django, working on numerous practical projects. While Java and Python serve as my foundational coding languages, my primary focus is Python. I'm already eyeing my next learning targets - JavaScript, TypeScript, and React. I am constantly excited to acquire new languages and frameworks, committed to refining my skills in this evolving digital age.
 
 ---
 
@@ -11,6 +11,7 @@ Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <br />
