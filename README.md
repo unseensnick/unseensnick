@@ -33,7 +33,7 @@ Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn 
 ### 💾 Databases
 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./Assets/mongodb-wordmark.svg" />
-<img align="left" alt="MariaDB" width="30px" style="padding-right:10px;" src="./Assets/mariadb-svgrepo-com.svg" />
+<img align="left" alt="MariaDB" width="40px" style="padding-right:10px;" src="./Assets/mariadb-svgrepo-com.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="./Assets/postgresql.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="./Assets/mysql.svg" />
 <br />
