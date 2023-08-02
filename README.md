@@ -18,6 +18,7 @@ Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn 
 
 ### 🌱 Learning Languages and Tools
 
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="./Assets/django-icon-svgrepo-com.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
