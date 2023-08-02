@@ -8,6 +8,7 @@ Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn 
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -48,7 +49,7 @@ My coding journey began in January 2022 with a game design course, SPD and MAPP 
 In an effort to delve further into the world of coding, I signed up for courses in both Java and Python provided by KIT (Kunnskapstrening IT). Originally, the Java course was a program from Stockholm University, while the Python course was a new addition to KIT's offerings. The Python course had limited material, and although we did use resources like the 'Scientific Computing with Python' course from freeCodeCamp, material found on youtube and other free courses online, I found translating the Java course into Python was what truly bolstered my understanding. This experience took place around August/September 2022, giving me a robust foundation in both languages.
 <br /><br />
 Being an independent learner, I utilized my spare time to dive into GUI programming. This led me to create several Java and Python programs, utilizing tools such as PyQt5/6 and SceneBuilder.
-'<br /><br />
+<br /><br />
 After finishing the Java and Python courses, my natural curiosity nudged me towards exploring other languages and frameworks. I've been engaged in various projects, both during and after these courses. While I'm still in the initial phases of getting the hang of these new technologies, I'm eagerly looking forward to the journey and growth that await me.
 
 <!--
