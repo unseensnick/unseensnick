@@ -44,8 +44,6 @@ Hello there! I'm an aspiring Full Stack Developer, fueled by a passion to learn 
  <summary><h3>👨‍💻 Unseen Snick's Coding Journey</h3></summary>
 My coding journey began in January 2022 with a game design course, SPD and MAPP a mobile app design course. This experience taught me the basics of coding in C# and Unity. During this course, I made several games, including a platformer, a tic-tac-toe game, and a top-down shooter mobile game. While the process was both challenging and enjoyable, I found myself drawn more to the coding and testing aspects rather than the planning phases like drafting game design documents and level map designs.
 
- <br />
-
 In an effort to delve further into the world of coding, I signed up for courses in both Java and Python provided by KIT (Kunnskapstrening IT). Originally, the Java course was a program from Stockholm University, while the Python course was a new addition to KIT's offerings. The Python course had limited material, and although we did use resources like the 'Scientific Computing with Python' course from freeCodeCamp, material found on youtube and other free courses online, I found translating the Java course into Python was what truly bolstered my understanding. This experience took place around August/September 2022, giving me a robust foundation in both languages.
 
 Being an independent learner, I utilized my spare time to dive into GUI programming. This led me to create several Java and Python programs, utilizing tools such as PyQt5/6 and SceneBuilder.
