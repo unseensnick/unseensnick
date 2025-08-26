@@ -64,7 +64,6 @@ I'm a developer focused on building modern web applications with clean, responsi
 ## Connect
 
 -   **Portfolio:** [View Portfolio](https://snickersluring.com)
--   **GitHub:** [@unseensnick](https://github.com/unseensnick)
 
 ---
 
